@@ -8,4 +8,5 @@ function whileLoop(){
     }
   }
 }
+whileLoop();
 
